@@ -5,4 +5,4 @@ im making a codes and assist a devs
 
 my stats Here:
 
-[![WilloIzCitron's github stats](https://github-readme-stats.vercel.app/api?username=WilloIzCitron)](https://github.com/anuraghazra/github-readme-stats)
+[![WilloIzCitron's github stats](https://github-readme-stats.vercel.app/api?username=WilloIzCitron&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
