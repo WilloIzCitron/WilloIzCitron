@@ -23,7 +23,7 @@ IDE:
 
 Photo Editor:
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/800px-Adobe_Photoshop_CC_icon.svg.png"></code>
-<code><img height="20" src=""></code>
+<code><img height="20" src="https://github.com/WilloIzCitron/WilloIzCitron/blob/main/Cuplikan%20layar%202020-10-20%20101505.png?raw=true"></code>
 
 - <img src="https://github.com/WilloIzCitron/WilloIzCitron/blob/main/ezgif.com-gif-maker.gif?raw=true" width="20" height="20"/> i have 3 pets
 
