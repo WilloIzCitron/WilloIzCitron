@@ -16,9 +16,14 @@ im making a codes and assist a devs
 
 GameEngine: Unity
 
-IDE: Visual Studio Code  | Visual Studio | Repl.it
+IDE: 
+<code><img height="20" src="https://raw.githubusercontent.com/WilloIzCitron/WilloIzCitron/main/vs-code-responsive-01-1.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/WilloIzCitron/WilloIzCitron/e4154f02d0501767f094f6cdba02235d2c14d218/BrandVisualStudioWin2019-3.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/WilloIzCitron/WilloIzCitron/main/Repl.it_logo.svg"></code>
 
-Photo Editor: Photoshop | paint.net
+Photo Editor:
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/800px-Adobe_Photoshop_CC_icon.svg.png"></code>
+<code><img height="20" src=""></code>
 
 - <img src="https://github.com/WilloIzCitron/WilloIzCitron/blob/main/ezgif.com-gif-maker.gif?raw=true" width="20" height="20"/> i have 3 pets
 
