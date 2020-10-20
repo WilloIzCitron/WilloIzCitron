@@ -21,12 +21,24 @@ IDE: Visual Studio Code  | Visual Studio | Repl.it
 Photo Editor: Photoshop | paint.net
 
 - <img src="https://github.com/WilloIzCitron/WilloIzCitron/blob/main/ezgif.com-gif-maker.gif?raw=true" width="20" height="20"/> i have 3 pets
-## Stats
 
-[![WilloIzCitron's github stats](https://github-readme-stats.vercel.app/api?username=WilloIzCitron&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+  <summary>Badges:</summary>
+  
+![](https://visitor-badge.glitch.me/badge?page_id=Willoizcitron)
+  
+</details>
+
+<details>
+<summary>📈 My GitHub Stats</summary>
+
+![WilloIzCitron's github stats](https://github-readme-stats.vercel.app/api?username=WilloIzCitron&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilloIzCitron&layout=compact&theme=radical)
+</details>
 
-## Social Media
+<details>
+  <summary> My Social Media</summary>
 
 Itch | [Click Here](https://willodev.itch.io/)
+</details>
