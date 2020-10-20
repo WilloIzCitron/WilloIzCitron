@@ -40,5 +40,5 @@ Photo Editor: Photoshop | paint.net
 <details>
   <summary> My Social Media</summary>
 
-Itch | [Click Here](https://willodev.itch.io/)
+Itch | [Click Here](https://willodev.itch.io/) Discord | [Join Here](https://discord.gg/ZyB4Zcg) 
 </details>
