@@ -7,10 +7,10 @@ im making a codes and assist a devs
 - 🔭 I’m currently working on Python
 - 💻 I can Scripting on: 
 
-![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)
-![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
-![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)
-![C#](https://img.shields.io/badge/c%23-grey?style=for-the-badge&logo=cs&logoColor=white&labelColor=8E2DE2)
+<code><img height="20" src="https://raw.githubusercontent.com/WilloIzCitron/WilloIzCitron/447d57790bc691f7d3cfd303ee6826543d14d1e9/Python-logo-notext.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/WilloIzCitron/WilloIzCitron/447d57790bc691f7d3cfd303ee6826543d14d1e9/HTML5_Logo.svg"></code>
+<code><img height="20" src="https://github.com/WilloIzCitron/WilloIzCitron/blob/main/CSS3_logo_and_wordmark.svg.png?raw=true"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/WilloIzCitron/WilloIzCitron/main/800px-C_Sharp_logo.svg.png"></code>
 
 - 🔧 My Tools Is:
 
