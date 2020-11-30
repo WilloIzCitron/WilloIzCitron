@@ -41,6 +41,8 @@ Photo Editor:
 ![WilloIzCitron's github stats](https://github-readme-stats.vercel.app/api?username=WilloIzCitron&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilloIzCitron&layout=compact&theme=radical)
+
+![oh no GitHub metrics](https://metrics.lecoq.io/WilloIzCitron)
 </details>
 
 <details>
