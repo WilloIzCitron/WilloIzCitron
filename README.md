@@ -32,6 +32,10 @@ Photo Editor:
   <summary>Badges:</summary>
   
 ![](https://visitor-badge.glitch.me/badge?page_id=Willoizcitron)
+
+<a href="https://dev.to/willoizcitron">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Tegas Aziz's DEV Profile" height="30" width="30">
+</a>
   
 </details>
 
