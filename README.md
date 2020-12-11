@@ -49,6 +49,8 @@ Photo Editor:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilloIzCitron&layout=compact&theme=radical)
 
 ![oh no GitHub metrics](https://metrics.lecoq.io/WilloIzCitron)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=willoizcitron)](https://github.com/ryo-ma/github-profile-trophy)
 </details>
 
 <details>
