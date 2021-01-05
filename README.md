@@ -30,6 +30,8 @@ Photo Editor:
 
 - <img src="https://github.com/WilloIzCitron/WilloIzCitron/blob/main/ezgif.com-gif-maker.gif?raw=true" width="20" height="20"/> i have 3 pets
 
+- FunFact: Bloon pops with sharp tool
+
 <details>
   <summary>Badges:</summary>
   
