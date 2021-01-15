@@ -53,6 +53,8 @@ Photo Editor:
 ![oh no GitHub metrics](https://metrics.lecoq.io/WilloIzCitron)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=willoizcitron)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![a steak](https://github-readme-streak-stats.herokuapp.com/?user=willoizcitron)
 </details>
 
 <details>
