@@ -4,7 +4,7 @@
 Hello Im Willo 
 im making a codes and assist a devs
 
-- 🔭 I’m currently working on Zeno Bot
+- 🔭 I’m currently working on Tribaldustry
 - 💻 I can Scripting on: 
 
 <code><img height="20" src="https://raw.githubusercontent.com/WilloIzCitron/WilloIzCitron/447d57790bc691f7d3cfd303ee6826543d14d1e9/Python-logo-notext.svg"></code>
@@ -12,6 +12,7 @@ im making a codes and assist a devs
 <code><img height="20" src="https://github.com/WilloIzCitron/WilloIzCitron/blob/main/CSS3_logo_and_wordmark.svg.png?raw=true"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/WilloIzCitron/WilloIzCitron/main/800px-C_Sharp_logo.svg.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/WilloIzCitron/readme-profile-source/main/nodejs-seeklogo.com.svg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png"></code>
 
 - 🔧 My Tools Is:
@@ -23,6 +24,7 @@ IDE:
 <code><a href="https://code.visualstudio.com/download"><img height="20" src="https://raw.githubusercontent.com/WilloIzCitron/WilloIzCitron/main/vs-code-responsive-01-1.png"></a></code>
 <code><a href="https://visualstudio.microsoft.com/downloads/"><img height="20" src="https://raw.githubusercontent.com/WilloIzCitron/WilloIzCitron/e4154f02d0501767f094f6cdba02235d2c14d218/BrandVisualStudioWin2019-3.svg"></a></code>
 <code><a href="https://repl.it"><img height="20" src="https://raw.githubusercontent.com/WilloIzCitron/WilloIzCitron/main/Repl.it_logo.svg"></a></code>
+<code><a href="https://www.jetbrains.com/idea/"><img height="20" src="https://raw.githubusercontent.com/JetBrains/intellij-community/master/platform/icons/src/idea_CE.ico"></a></code>
 
 Photo Editor:
 <code><a href="https://www.adobe.com/products/photoshop.html"><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/800px-Adobe_Photoshop_CC_icon.svg.png"></a></code>
@@ -31,6 +33,14 @@ Photo Editor:
 - <img src="https://github.com/WilloIzCitron/WilloIzCitron/blob/main/ezgif.com-gif-maker.gif?raw=true" width="20" height="20"/> i have 3 pets
 
 - FunFact: Bloon pops with sharp tool
+
+### Projects
+| Project Name | Project Description         | Github Link                                                 |
+|--------------|-----------------------------|-------------------------------------------------------------|
+| Tribaldustry | My First Mindustra Java Mod | [Click Here](https://github.com/WilloIzCitron/Tribaldustry) |
+| Zeno Bot     | Multifuncion Discord Bot    | [Click Here](https://github.com/WilloIzCitron/zeno-bot)     |
+
+---
 
 <details>
   <summary>Badges:</summary>
