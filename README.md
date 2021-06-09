@@ -37,7 +37,7 @@ Photo Editor:
 ### Projects
 | Project Name | Project Description         | Github Link                                                 |
 |--------------|-----------------------------|-------------------------------------------------------------|
-| Tribaldustry | My First Mindustra Java Mod | [Click Here](https://github.com/WilloIzCitron/Tribaldustry) |
+| Tribaldustry | My First Mindustry Java Mod | [Click Here](https://github.com/WilloIzCitron/Tribaldustry) |
 | Zeno Bot     | Multifuncion Discord Bot    | [Click Here](https://github.com/WilloIzCitron/zeno-bot)     |
 
 ---
