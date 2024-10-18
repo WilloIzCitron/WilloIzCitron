@@ -9,7 +9,7 @@ Also I'm interested about electronics, software and others.
 ## Experience Training
 ```mermaid
 graph TD;
-A[Web Development]-->B[Frontend];
+A[Web Development]-->B[Frontend]-->D[Full-Stack];
 A[Web Development]-->C[Backend]-->D[Full-Stack];
 E[Mobile App Development]-->F[MAUI];
 ```
