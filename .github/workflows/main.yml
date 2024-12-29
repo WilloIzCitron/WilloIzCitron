@@ -72,7 +72,7 @@ jobs:
           plugin_people: yes
           plugin_people_limit: 24
           plugin_people_size: 28
-          plugin_people_thanks: dagamerfiles, kev-vily
+          plugin_people_thanks: DaGamerFiles, Kev-Vily
           plugin_people_types: followers, following
           plugin_repositories: yes
           plugin_repositories_order: featured, pinned, starred, random
