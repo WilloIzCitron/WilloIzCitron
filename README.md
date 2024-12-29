@@ -5,3 +5,5 @@
 Hello! My name is Tegas Aziz (WilloIzCitron)... A student from SMAN 3 North Cikarang (Why not?). 
 
 Also I'm interested about electronics, software and others.
+
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
