@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1845 Commits
+                            1846 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="392.34102240447237" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="392.34102240447237" y="0" width="58.9870356962558" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="451.32805810072824" y="0" width="3.2307197970533963" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="454.5587778977816" y="0" width="2.311886441725967" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="456.8706643395076" y="0" width="1.725059100351765" height="8" fill="#5686a5"/>
-                    <rect mask="url(#languages-bar)" x="458.59572343985934" y="0" width="1.0990055318123795" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="459.69472897167174" y="0" width="0.16984359765913645" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="459.86457256933085" y="0" width="0.1354274306691512" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="392.34298027535215" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="392.34298027535215" y="0" width="58.98532876831249" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="451.32830904366466" y="0" width="3.230626308614225" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="454.55893535227887" y="0" width="2.3118195418805594" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="456.87075489415946" y="0" width="1.7250091817290119" height="8" fill="#5686a5"/>
+                    <rect mask="url(#languages-bar)" x="458.5957640758885" y="0" width="1.0989737295149768" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="459.69473780540346" y="0" width="0.16983868283710118" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="459.8645764882406" y="0" width="0.13542351175946246" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2425,6 +2425,23 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
+                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Opened
+                                        <span class="issue">#1 Expand source defined pls</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened  in <span class="repo">ernestoyoofi/jawascript</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
@@ -2492,23 +2509,6 @@
                                         <div class="sha">#1dded0b</div>
                                         <div class="message">remove config file + add incognito</div>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
-                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Closed
-                                        <span class="issue">#1 where's the slider</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by BlueTheCube in <span class="repo">WilloIzCitron/TimeControlJava</span></div>
                                 </div>
                             </section>
                         </div>
@@ -2645,7 +2645,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="114.39 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="114.7 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2667,7 +2667,7 @@
                                     <span class="prefix">Super</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 869 times</div>
+                                <div class="text">Repositories have been deployed 870 times</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -2876,7 +2876,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 504k out of 236m repositories</span>
+                                    <span class="gh">ranked 504k out of 229m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 71 stars</div>
                             </div>
@@ -3009,7 +3009,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.31m out of 236m repositories</span>
+                                    <span class="gh">ranked 2.31m out of 229m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 4 times</div>
                             </div>
@@ -3221,7 +3221,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Jan 2025, 10:23:40 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Jan 2025, 11:25:54 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
