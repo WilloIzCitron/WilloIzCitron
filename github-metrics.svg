@@ -2598,7 +2598,7 @@ I'm worried this issue long ago and I couldn't get this issue.
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="143.84 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="144.15 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2620,7 +2620,7 @@ I'm worried this issue long ago and I couldn't get this issue.
                                     <span class="prefix">Super</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 964 times</div>
+                                <div class="text">Repositories have been deployed 965 times</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -2861,7 +2861,7 @@ I'm worried this issue long ago and I couldn't get this issue.
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 505k out of 217m repositories</span>
+                                    <span class="gh">ranked 505k out of 220m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 71 stars</div>
                             </div>
@@ -2994,7 +2994,7 @@ I'm worried this issue long ago and I couldn't get this issue.
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.31m out of 217m repositories</span>
+                                    <span class="gh">ranked 2.31m out of 220m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 4 times</div>
                             </div>
@@ -3206,7 +3206,7 @@ I'm worried this issue long ago and I couldn't get this issue.
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Jan 2025, 13:32:29 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Jan 2025, 14:21:19 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
