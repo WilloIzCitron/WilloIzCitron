@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2919" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2932" class="">
     <defs>
         <style/>
     </defs>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1848 Commits
+                            1861 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2638,7 +2638,7 @@ revert</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="13.846666666666668 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="13.95 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2660,7 +2660,7 @@ revert</div>
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 1134 times</div>
+                                <div class="text">Repositories have been deployed 1135 times</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -2901,7 +2901,7 @@ revert</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 506k out of 225m repositories</span>
+                                    <span class="gh">ranked 506k out of 228m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 71 stars</div>
                             </div>
@@ -3075,7 +3075,7 @@ revert</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.32m out of 225m repositories</span>
+                                    <span class="gh">ranked 2.32m out of 228m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 4 times</div>
                             </div>
@@ -3221,14 +3221,16 @@ revert</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            revert
+                            revert to old
+
+revert
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">1d92e1fb</span>
-                            <span class="code">fau.nimble</span>
+                            <span class="code">d479b404</span>
+                            <span class="code">src/fau/input.nim</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--1</span>
@@ -3239,14 +3241,14 @@ revert</div>
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -7,7 +7,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">binDir        = "build"<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">requires "nim &gt;= 2.0.0"<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">requires "https://github.com/Anuken/staticglfw#4c4152b22299c5344472a792e55a1aede296e33d"<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">requires "https://github.com/Anuken/staticglfw#7e61c5d9798615503b618a0a7450005db8015ddc"<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">requires "https://github.com/Anuken/glfm#be73f6862533c4cccedfac512d7766c8a30f3122"<br /></span><span class="token prefix unchanged">·</span><span class="token line">requires "https://github.com/Anuken/nimsoloud#c74878dcb60fd2e2af84f894a8a8ffe901aecd51"<br /></span><span class="token prefix unchanged">·</span><span class="token line">requires "https://github.com/Anuken/polymorph#15bbc5da4223194d27520581e155521e495a9528"</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -10,7 +10,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">proc released*(key: KeyCode): bool {.inline.} = keysJustUp[key]<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">proc axis*(left, right: KeyCode): int = right.down.int - left.down.int<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">proc axis2*(left = keyA, right = keyD, bottom = keyS, top = keyW): Vec2 = vec2(axis(left, right).float32, axis(bottom, top).float32)<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">proc axis2*(left, right, bottom, top: KeyCode): Vec2 = vec2(axis(left, right).float32, axis(bottom, top).float32)<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">proc axisTap*(left, right: KeyCode): int = right.tapped.int - left.tapped.int<br /></span><span class="token prefix unchanged">·</span><span class="token line">proc axisTap2*(left, right, bottom, top: KeyCode): Vec2 = vec2(axisTap(left, right).float32, axisTap(bottom, top).float32)<br /></span></span>\No newline at end of file</code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Jan 2025, 22:24:37 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Jan 2025, 23:29:14 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
